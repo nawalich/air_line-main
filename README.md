@@ -1,3 +1,4 @@
+ HEAD
 # air_line
 air_line_management :
 airplanes , flights schedule , employe , ...
@@ -13,3 +14,6 @@ for page layout and routs
 for CSS , javascripts, ...etc 
 ## .gitignore :
 ignoring pychache 
+=======
+# air_line-main
+
